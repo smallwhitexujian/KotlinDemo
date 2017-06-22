@@ -1,4 +1,4 @@
-# KotlinDemo
+# Kotlin
 开始使用Android和Kotlin
 
 本教程将引导我们使用android Studio为Android创建一个简单的Kotlin应用程序。
